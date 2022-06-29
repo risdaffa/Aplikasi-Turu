@@ -1,4 +1,5 @@
 # Aplikasi Turu
+by : Faris Izzuddin Daffa (M0520027)
 
 Aplikasi Turu adalah aplikasi yang berisi musik relaksasi untuk membantu orang-orang insomnia.
 Aplikasi turu ini dibuat dengan bahasa html css javascript yang kemudian dikonversikan menjadi file apk dengan menggunakan sebuah aplikasi pengonversi yang bernama Website 2 Apk builder.
